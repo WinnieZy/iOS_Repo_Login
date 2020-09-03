@@ -1,0 +1,23 @@
+PODS:
+  - Login (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - Login (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  Login:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Login: b2ce98f6a33b555d3b08b391275fd8234bd988f1
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: fb537aac0f3210a1b9edca7a7be50cfef3d802e5
+
+COCOAPODS: 1.9.1

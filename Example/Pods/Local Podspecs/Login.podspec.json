@@ -1,0 +1,32 @@
+{
+  "name": "Login",
+  "version": "0.1.0",
+  "summary": "Login Module",
+  "description": "A login module for reuse.",
+  "homepage": "https://github.com/WinnieZy/iOS_Repo_Login",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WinnieZy": "897531071@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/WinnieZy/iOS_Repo_Login.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Login/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

@@ -1,4 +1,6 @@
-# Login
+# iOS_Repo_Login
+
+登录界面
 
 [![CI Status](https://img.shields.io/travis/WinnieZy/Login.svg?style=flat)](https://travis-ci.org/WinnieZy/Login)
 [![Version](https://img.shields.io/cocoapods/v/Login.svg?style=flat)](https://cocoapods.org/pods/Login)
@@ -22,8 +24,9 @@ pod 'Login'
 
 ## Author
 
-WinnieZy, winnieyzhou@tencent.com
+WinnieZy, 897531071@qq.com
 
 ## License
 
 Login is available under the MIT license. See the LICENSE file for more info.
+=======
