@@ -1,13 +1,10 @@
 use_frameworks!
 
-platform :ios, '8.0'
+platform :ios, '9.0'
 
 target 'Login_Example' do
-  pod 'Login', :path => '../'
+  pod 'Masonry'
+  # 远程仓库引用
+  pod 'Login', :source  => 'https://github.com/WinnieZy/iOS_Repo_LoginSpec.git'
 
-  target 'Login_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end

@@ -4,20 +4,19 @@ PODS:
   - Masonry (1.1.0)
 
 DEPENDENCIES:
-  - Login (from `../`)
+  - Login
+  - Masonry
 
 SPEC REPOS:
+  https://github.com/WinnieZy/iOS_Repo_LoginSpec.git:
+    - Login
   trunk:
     - Masonry
 
-EXTERNAL SOURCES:
-  Login:
-    :path: "../"
-
 SPEC CHECKSUMS:
-  Login: b2ce98f6a33b555d3b08b391275fd8234bd988f1
+  Login: 6247fe4cd84b7e39ecc846d0d4f4fa7d7c2574af
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: fb537aac0f3210a1b9edca7a7be50cfef3d802e5
+PODFILE CHECKSUM: e506d15e9bc62888a9b585d676e3081b8fb1c5f4
 
 COCOAPODS: 1.9.1
