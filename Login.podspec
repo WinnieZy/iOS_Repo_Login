@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   #   'Login' => ['Login/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'Login/Classes/**/*.h'
   s.frameworks = 'Foundation', 'UIKit'
   s.dependency 'Masonry'
   # s.dependency 'AFNetworking', '~> 2.3'
